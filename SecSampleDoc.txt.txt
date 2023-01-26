@@ -4,3 +4,5 @@ New Devops test Document
 Ok we are making some adjustments on the initial document for git to recognise
 
 Sample doc 2
+
+annother addition before commit
